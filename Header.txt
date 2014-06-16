@@ -1,2 +1,6 @@
 Testing on the world wide web
+<<<<<<< HEAD
 On the PC
+=======
+On the web
+>>>>>>> 6df1587eac95593b82ec25bf958ab8fac722ce63
